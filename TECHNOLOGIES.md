@@ -5,3 +5,5 @@
 - React + Vite
   - Typescript
 - Tailwind CSS + Vite
+
+- DayJS
