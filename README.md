@@ -1,5 +1,5 @@
-# Gestão de eventos (Pass-in)
-Aplicação desenvolvida para gerenciar eventos com base no NLW Unite 2024 organizado e ministrado pela [RocketSeat](https://www.rocketseat.com.br/).
+# Gestão de eventos (Pass in)
+Website desenvolvido para gerenciar eventos com base no NLW Unite 2024 organizado e ministrado pela [RocketSeat](https://www.rocketseat.com.br/).
 
 ## Funcionalidades
 
